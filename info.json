@@ -8,7 +8,7 @@
 	"requires": "6.4",
 	"tested": "6.4",
 	"requires_php": "7.4",
-	"last_updated": "2023-11-23 02:10:00",
+	"last_updated": "2023-11-23 09:10:00",
 	"sections": {
 		"description": "This simple plugin does nothing, only gets updates from a custom server",
 		"installation": "Click the activate button and that's it.",
