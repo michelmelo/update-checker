@@ -15,7 +15,7 @@
 		"changelog": "<h4>1.0 –  november 2023</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
 	},
 	"banners": {
-		"low": "https:/xxx/wp-content/plugins/update-checker/banner-772x250.jpg",
-		"high": "https://xxx/wp-content/plugins/update-checker/banner-1544x500.jpg"
+		"low": "https://raw.githubusercontent.com/michelmelo/update-checker/main/banner-772x250.jpg",
+		"high": "https://raw.githubusercontent.com/michelmelo/update-checker/main/banner-1544x500.jpg"
 	}
 }
