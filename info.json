@@ -1,0 +1,21 @@
+{
+	"name": "Update Checker",
+	"slug": "update-checker",
+	"author": "Michel Melo",
+	"author_profile": "http://profiles.wordpress.org/michelmelo",
+	"version": "3.0.0",
+	"download_url": "https://xxx/wp-content/plugins/update-checker/update-checker.zip",
+	"requires": "3.0",
+	"tested": "5.8",
+	"requires_php": "7.4",
+	"last_updated": "2023-11-03 02:10:00",
+	"sections": {
+		"description": "This simple plugin does nothing, only gets updates from a custom server",
+		"installation": "Click the activate button and that's it.",
+		"changelog": "<h4>1.0 –  november 2023</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	},
+	"banners": {
+		"low": "https:/xxx/wp-content/plugins/update-checker/banner-772x250.jpg",
+		"high": "https://xxx/wp-content/plugins/update-checker/banner-1544x500.jpg"
+	}
+}
