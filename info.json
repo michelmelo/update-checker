@@ -5,8 +5,8 @@
 	"author_profile": "http://profiles.wordpress.org/michelmelo",
 	"version": "3.0.0",
 	"download_url": "https://xxx/wp-content/plugins/update-checker/update-checker.zip",
-	"requires": "3.0",
-	"tested": "5.8",
+	"requires": "6.4",
+	"tested": "6.4",
 	"requires_php": "7.4",
 	"last_updated": "2023-11-03 02:10:00",
 	"sections": {
