@@ -4,7 +4,7 @@
 	"author": "Michel Melo",
 	"author_profile": "http://profiles.wordpress.org/michelmelo",
 	"version": "1.1.0",
-	"download_url": "https://xxx/wp-content/plugins/update-checker/update-checker.zip",
+	"download_url": "https://github.com/michelmelo/update-checker/archive/refs/tags/1.1.0.zip",
 	"requires": "6.4",
 	"tested": "6.4",
 	"requires_php": "7.4",
