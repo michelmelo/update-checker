@@ -1,0 +1,15 @@
+{
+    "name": "michelmelo/update-checker",
+    "description": "gets updates from a custom server",
+    "type": "library",
+    "require": {
+        "friendsofphp/php-cs-fixer": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel Melo"
+        }
+    ],
+    "minimum-stability": "dev"
+}
