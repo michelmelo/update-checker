@@ -1,0 +1,30 @@
+name: Create Plugin ZIP
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '7.4'
+
+    - name: Create ZIP file
+      run: |
+        mkdir -p dist
+        zip -r dist/update-checker.zip update-checker
+
+    - name: Upload ZIP file
+      uses: actions/upload-artifact@v2
+      with:
+        name: update-checker
+        path: dist/update-checker.zip
