@@ -24,7 +24,7 @@ jobs:
         zip -r dist/update-checker.zip update-checker
 
     - name: Upload ZIP file
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: update-checker
         path: dist/update-checker.zip
